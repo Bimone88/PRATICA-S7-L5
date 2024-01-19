@@ -1,0 +1,37 @@
+body{
+    background-color:#F78A1C;
+}
+
+.navbar-brand img {
+    width: 30px;
+    margin-right: 5px; 
+  }
+
+  .social-icons {
+    list-style: none;
+    padding: 0;
+  }
+
+  .social-icons li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+  .social-icons a {
+    text-decoration: none;
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .logo {
+    width: 150px;
+  }
+
+  .icon {
+    width: 50px;
+  }
+
+  .card {
+    background-color: #E7AD04;
+    color: #fff;
+  }
